@@ -61,4 +61,7 @@ nav{
 button{
   color: #333
 }
+nav-link{
+  color: #333 ! important;
+}
   
