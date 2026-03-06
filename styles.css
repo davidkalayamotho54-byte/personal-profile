@@ -6,76 +6,66 @@ body{
   padding: 0;
   line-height:1.6;
 }
+
 header{
   background-color: #4B0082;
-  color: #333;
+  color: white;
   padding: 20px;
   text-align: center;
 }
-header h1{
-  margin: 0;
-  color: #333
-}
+
 h2{
   color: #007bff;
 }
-ul li {
-  background: #f8f9fa;
-  color: #333;
-  padding: 10px
-  margin: 5px 0;
-  border-left: 5px solid #007bff;
+
+ul li{
+  background:#f8f9fa;
+  color:#333;
+  padding:10px;
+  margin:5px 0;
+  border-left:5px solid #007bff;
 }
+
 main{
-  padding: 20px;
-  max-width: 800px;
-  margin: 0 auto;
+  padding:20px;
+  max-width:800px;
+  margin:0 auto;
 }
+
 footer{
-  background-color: #333;
-  color: white;
-  text-align: center;
-  padding: 10px;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
+  background-color:#333;
+  color:white;
+  text-align:center;
+  padding:10px;
+  position:fixed;
+  bottom:0;
+  width:100%;
 }
 
 p{
-  font-size: 1.1em;
+  font-size:1.1em;
 }
-a {
-  color: #4CAF50;
-  background-color: #333;
-  text-decoration: none;
+
+a{
+  color:#4CAF50;
+  text-decoration:none;
 }
+
 img{
-  border: 5px solid #4CAF50;
-  border-radius: 10px;
+  border:5px solid #4CAF50;
+  border-radius:10px;
 }
+
 nav a{
-  
-  color: yellow; 
+  color:white;
 }
-nav{
-  background-color: #333;
+
+.navbar-nav .nav-link:hover{
+  color:#4CAF50;
 }
+
 button{
-  color: #333
-
-.navbar-nav .nav-link{
-color:white;
-}
-.navbar-nav .nav-link{
-color:white !important;
-}
-
-.navbar-nav .nav-link:hover{
-color:#4CAF50 !important;
-}
-
-.navbar-nav .nav-link:hover{
-color:#4CAF50;
+  color:#333;
 }
 
 
