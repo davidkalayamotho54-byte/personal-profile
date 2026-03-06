@@ -64,7 +64,8 @@ button{
   color: #333
 }
 nav-link{
-  color: #333 
+  background-color: #333;
+  color: white;
 }
 
 nav-bar nav-link {
