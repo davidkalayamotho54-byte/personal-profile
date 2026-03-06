@@ -45,9 +45,13 @@ a{
   text-decoration:none;
 }
 
-img{
-  border:5px solid #4CAF50;
-  border-radius:10px;
+.profile-img {
+  width: 150px;      
+  height: auto;      
+  border: 5px solid #4CAF50; 
+  border-radius: 10px;        
+  display: block;    
+  margin-top: 10px;  
 }
 
 
