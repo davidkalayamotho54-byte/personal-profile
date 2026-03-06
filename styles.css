@@ -73,5 +73,8 @@ color: white !important;
 padding: 8px 16px;
 margin: 10px;
 }
+.navbar-nav .nav-link: hover{
+  background-color: #1d4ed8;
+}
 
 
