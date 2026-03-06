@@ -46,7 +46,7 @@ p{
 }
 a {
   color: #4CAF50;
-  background-color: red;
+  background-color: blue;
   text-decoration: none;
 }
 img{
@@ -58,7 +58,7 @@ nav a{
   color: yellow; 
 }
 nav{
-  background-color: red;
+  background-color: blue;
 }
 button{
   color: #333
