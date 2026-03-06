@@ -66,4 +66,12 @@ button{
 nav-link{
   color: #333 
 }
-  
+
+nav-bar nav-link {
+background-color: #2563eb;
+color: white !important;
+padding: 8px 16px;
+margin: 10px;
+}
+
+
