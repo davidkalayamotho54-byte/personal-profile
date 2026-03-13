@@ -17,6 +17,9 @@ header{
 h2{
   color: #007bff;
 }
+h1{
+  color: #333;
+}
 
 
 
@@ -46,12 +49,11 @@ a{
 }
 
 .profile-img {
-  width: 150px;      
-  height: auto;      
-  border: 5px solid #4CAF50; 
-  border-radius: 10px;        
-  display: block;    
-  margin-top: 10px;  
+  width: 200px;      
+  border-radius: 50%;      
+  box-shadow:0 4px 10px rgba(0,0,0,0.2); 
+  border-radius: 10px;            
+  margin-top: 20px;  
 }
 
 
